@@ -1,0 +1,17 @@
+C:\workspace\dotnet-intermediario\bin\Debug\net7.0\dotnet-intermediario.exe
+C:\workspace\dotnet-intermediario\bin\Debug\net7.0\dotnet-intermediario.deps.json
+C:\workspace\dotnet-intermediario\bin\Debug\net7.0\dotnet-intermediario.runtimeconfig.json
+C:\workspace\dotnet-intermediario\bin\Debug\net7.0\dotnet-intermediario.dll
+C:\workspace\dotnet-intermediario\bin\Debug\net7.0\dotnet-intermediario.pdb
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.csproj.AssemblyReference.cache
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.AssemblyInfoInputs.cache
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.AssemblyInfo.cs
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.dll
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\refint\dotnet-intermediario.dll
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.pdb
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.genruntimeconfig.cache
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\ref\dotnet-intermediario.dll
+C:\workspace\dotnet-intermediario\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\workspace\dotnet-intermediario\obj\Debug\net7.0\dotnet-intermediario.csproj.CopyComplete

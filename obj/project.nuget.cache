@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8n+yhZop12Cdm8VcoeqhQ5iCh5MrHLvBb1+zQCo0BiUDw8aI9AC/AxD3Vhf/UC0PmBRRBgEuD4BcLa3Qe12WGg==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\dotnet-intermediario\\dotnet-intermediario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MATHE\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
